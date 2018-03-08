@@ -4,6 +4,8 @@ public class Owner {
     private String id;
     private String name;
 
+
+
     public Owner(String id, String name) {
         this.id = id;
         this.name = name;

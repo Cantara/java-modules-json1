@@ -7,7 +7,7 @@
   <version>0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>java-modules-json2</name>
+  <name>java-modules-json1</name>
   <url>https://wiki.cantara.no</url>
 
   <properties>
